@@ -1,0 +1,11 @@
+ProductID,ReviewText,Sentiment
+P001,Absolutely love this product! It exceeded my expectations. Highly recommended.,Positive
+P002,The quality is terrible. It broke after just one week. Very disappointed.,Negative
+P003,"It's okay. Does the job, but nothing special. Fairly average.",Neutral
+P004,Wow! Fantastic value for the price. Works perfectly.,Positive
+P005,I expected more. The features are limited and the manual is unclear.,Negative
+P006,This is a decent product for beginners.,Neutral
+P007,Completely useless. A waste of money. Avoid at all costs.,Negative
+P008,Five stars! Couldn't be happier with this purchase.,Positive
+P009,"The setup was a bit complicated, but it works well now.",Neutral
+P010,It arrived damaged. The packaging was insufficient.,Negative
